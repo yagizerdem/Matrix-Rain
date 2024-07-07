@@ -1,0 +1,14 @@
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\bin\Debug\net8.0\matrixflow.exe
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\bin\Debug\net8.0\matrixflow.deps.json
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\bin\Debug\net8.0\matrixflow.runtimeconfig.json
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\bin\Debug\net8.0\matrixflow.dll
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\bin\Debug\net8.0\matrixflow.pdb
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\matrixflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\matrixflow.AssemblyInfoInputs.cache
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\matrixflow.AssemblyInfo.cs
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\matrixflow.csproj.CoreCompileInputs.cache
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\matrixflow.dll
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\refint\matrixflow.dll
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\matrixflow.pdb
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\matrixflow.genruntimeconfig.cache
+C:\Users\yagiz\source\repos\matrixflow\matrixflow\obj\Debug\net8.0\ref\matrixflow.dll
